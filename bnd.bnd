@@ -1,0 +1,6 @@
+Import-Package:\
+  org.apache.cocoon.components.serializers.util;resolution:=optional,\
+  *
+-removeheaders:\
+  Include-Resource,\
+  Private-Package
